@@ -20,18 +20,18 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-![](/)
+![](/mt.fuji-asphalt-art-picture.png)
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   My project was inspired by Mt. Fuji in Japan. To create this piece, I made a two-segment background with light blue for the sky and regular blue for Lake Yamanaka, the largest lake around Mt. Fuji. I then used white and gray to design the mountain itself, then placed a red circle to represent the Sun around it. To finish it off, I placed a cherry blosom branch in front of it.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   I'm proud of how well I was able to incorporate the code we learned how to create in Java, especially while-loops. I'm also proud of how nice the picture came out as my original sketch was not appealing to the eyes because it looked very sloppy.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   If I could change something about my project, I would try to see if there are any opportunities to add if-statements because my program has none of them, which shouldn't be a big problem since I do have multiple loops across the program.
