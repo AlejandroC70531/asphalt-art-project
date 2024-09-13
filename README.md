@@ -20,10 +20,9 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 Sketch:
-![](/mt.fuji-sketch.jpg)
+![](/mt.fuji-sketch2.jpg)
 
-
-Final Product:
+Final:
 ![](/mt.fuji-asphalt-art-picture.png)
 
 ## Reflection
