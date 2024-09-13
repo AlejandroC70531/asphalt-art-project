@@ -1,5 +1,5 @@
 import org.code.neighborhood.*;
-public class MtFujiPainter extends MuralPainter{
+public class MtFujiPainter extends BackgroundPainter{
   
 // A variable used in most MtFujiPainter methods to move downwards and stop at a certain point
 int yLocation = getY();
