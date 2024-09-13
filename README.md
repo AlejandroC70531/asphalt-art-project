@@ -19,7 +19,11 @@ Use your knowledge of object-oriented programming, algorithms, the problem solvi
 This project was created on Code.org's JavaLab platform using the built in Neightborhood GUI output. To test and edit this project you must build in Code.org's JavaLab with the Neighborhood GUI enabled. For reference to the Painter class documentation, [you can read more here.](https://studio.code.org/docs/ide/javalab/classes/Painter)
 
 ## Output:
+Sketch:
+![](/mt.fuji-sketch.jpg)
 
+
+Final Product:
 ![](/mt.fuji-asphalt-art-picture.png)
 
 ## Reflection
