@@ -4,7 +4,7 @@ import org.code.neighborhood.*;
  * MuralPainter is a PainterPlus that paints
  * murals in The Neighborhood
  */
-public class MuralPainter extends PainterPlus {
+public class BackgroundPainter extends PainterPlus {
 
   /*
    * Paints each row of The Neighborhood with the color
